@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-Hello world! I am a Data Scientist and Quant 3+ years of diverse work experience with a passion for Blockchain and DeFi applications!
+Hello world! I am a Data Scientist with a focus on Financial and DeFi applications with 3+ years of diverse work experience.
 
 I love working on cool projects at the intersections of Blockchain and DeFi. If you think I could be a value add to your project, please do not hestitate to reach out at one of the links here -->  https://linktr.ee/rashadh
 
@@ -9,6 +9,24 @@ I love working on cool projects at the intersections of Blockchain and DeFi. If 
 - RociFi -- Credit risk model repositiories as Data Science Team Lead. https://github.com/RociFi
 
 - Janka Score -- A Decentralized Credit Score for DeFi lending protcols.  https://github.com/jankascore. This was also my Hackathon project for ETH Denver 2023 which WON a bounty from the Graph Protocol "Best use of new or existing subgraphs".
+
+### Work History 
+
+I would recommend viewing my LinkedIn profile here --> https://www.linkedin.com/in/rashad-al-haddad-358731a7/ . At a high level, some of the awesome companies I have contributed to in the past, in order of recentness, include:
+
+- RociFi -- Data Science Team Lead  
+
+- SolRiver -- Senior Associate (Modeling / Valuation) 
+
+- Xcel Energy -- Quantitative Systems Consultant (Risk Quant)
+
+
+### Education
+
+- Masters in Computational Finance, Carnegie Mellon University (December '19)  
+
+- Bachelors of Science, Mathematics. Minor, Computer Science, Hofstra University (May '18)
+
 
 ### Specialties
 - Decision Tree Based Modeling. 
@@ -150,24 +168,6 @@ I love working on cool projects at the intersections of Blockchain and DeFi. If 
 - <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> Ubuntu Linux / Debian Flavors
 
 
-### Education
-
-- Masters in Computational Finance, Carnegie Mellon University (December '19)  
-
-- Bachelors of Science, Mathematics. Minor, Computer Science, Hofstra University (May '18)
-
-### Work History 
-
-Some of the awesome companies I have contributed to in the past, in order of recentness, include  
-
-- RociFi -- Data Science Team Lead  
-
-- SolRiver -- Senior Associate (Modeling / Valuation) 
-
-- Xcel Energy -- Quantitative Systems Consultant (Risk Quant)
-
-- DoubleLine Capital -- Quantitative Risk Intern
-
 
 ### Types of Work I am currenly open to
 
@@ -181,11 +181,11 @@ Fixed term contract  ✅
 
 
 ### What is that magical buffalo unicorn thing?
-That is a Bufficorn! Bufficorn NFTs are part of Buficorn Buidl Brigrade, a community of Web3 builders in Denver CO, and are fixture of the ETH Denver community. Holding a Bufficorn makes you a member of this awesome group of builders and thinkers.
+That is a Bufficorn! Bufficorn NFTs are part of Buficorn Buidl Brigrade, a community of Web3 builders in Denver CO, and are a fixture of the ETH Denver community. Holding a Bufficorn makes you a member of this awesome group of builders and thinkers.
 
 
 ### Questions?
-Feel free to DM me on telegram, or reach out to me at one of the links here --> https://linktr.ee/rashadh
+Feel free to DM me on LinkedIn, Telegram, or any of the links here --> https://linktr.ee/rashadh
 
 
 
