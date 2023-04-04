@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-Hello world! I am a Data Scientist with a focus on Financial and DeFi applications with 3+ years of diverse work experience.
+Hello world! I am a Quant and Data Scientist with a focus on Financial and DeFi applications with 3+ years of diverse work experience.
 
 I love working on cool projects at the intersections of Blockchain and DeFi. If you think I could be a value add to your project, please do not hestitate to reach out at one of the links here -->  https://linktr.ee/rashadh
 
@@ -175,7 +175,7 @@ Full time contract  ✅
 
 Part time contract  ✅
 
-Fixed term contract  ✅
+Fixed term contract  ❌ 
 
 (Please note while I try to keep this list up-to-date as possible, the best way to verify my currently availability to take on new projects is to directly message me at one of the links provided under my Link Tree)
 
