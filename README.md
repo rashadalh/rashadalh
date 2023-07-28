@@ -6,14 +6,18 @@ Hello world! I am a Quant and Data Scientist with a focus on Financial and DeFi 
 I love working on cool projects at the intersections of Blockchain and DeFi. If you think I could be a value add to your project, please do not hestitate to reach out at one of the links here -->  https://linktr.ee/rashadh
 
 ### Contributions
-- RociFi -- Credit risk model repositiories as Data Science Team Lead. https://github.com/RociFi
+- Siren Protocol (Current FT) - Building Hedging and Margin Systems that run both On/Off chain.  
 
-- Janka Score -- A Decentralized Credit Score for DeFi lending protcols.  https://github.com/jankascore. This was also my Hackathon project for ETH Denver 2023 which WON a bounty from the Graph Protocol "Best use of new or existing subgraphs".
+- RociFi -- Credit risk model repositiories as Data Science Team Lead. https://github.com/RociFi  
+
+- Janka Score -- A Decentralized Credit Score for DeFi lending protcols.  https://github.com/jankascore. This was also my Hackathon project for ETH Denver 2023 which WON a bounty from the Graph Protocol "Best use of new or existing subgraphs".  
 
 ### Work History 
 
-I would recommend viewing my LinkedIn profile here --> https://www.linkedin.com/in/rashad-al-haddad-358731a7/ . At a high level, some of the awesome companies I have contributed to in the past, in order of recentness, include:
+I would recommend viewing my LinkedIn profile here --> https://www.linkedin.com/in/rashad-al-haddad-358731a7/ . At a high level, some of the awesome companies I have contributed to in the past, in order of recentness, include:  
 
+- Siren Protocol -- Quantitative Developer
+  
 - RociFi -- Data Science Team Lead  
 
 - SolRiver -- Senior Associate (Modeling / Valuation) 
@@ -50,6 +54,8 @@ I would recommend viewing my LinkedIn profile here --> https://www.linkedin.com/
 #### Languages
 
 - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> -- 8+ years of development experience.
+- <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" /> -- 5+ months of FT experience plus cert  
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> TypeScript  
 
 ***This also includes extensive knowledge of libaries essential to Data Science such as:***
 
@@ -88,8 +94,6 @@ I would recommend viewing my LinkedIn profile here --> https://www.linkedin.com/
 
 - <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" /> Solidity
   * Certificate holder --> <src img="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />  https://www.udemy.com/certificate/UC-c5e11b9e-0528-4d69-87f7-15231042139b/   
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> TypeScript
 
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /> LaTeX
 
@@ -171,7 +175,7 @@ I would recommend viewing my LinkedIn profile here --> https://www.linkedin.com/
 
 ### Types of Work I am currenly open to
 
-Full time contract  ✅
+Full time contract   ❌ 
 
 Part time contract  ✅
 
