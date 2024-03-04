@@ -63,7 +63,7 @@ I am a blockhain developer with a focus on Financial and DeFi applications.
 
 - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  
 - <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />   
-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> TypeScript  
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />    
 
 ***This also includes extensive knowledge of libaries essential to Data Science such as:***
 
