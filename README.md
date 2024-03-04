@@ -1,12 +1,12 @@
 # Hi there 👋
 
 ## 🚀 About Me
-Hello world! I am a Quant and Data Scientist with a focus on Financial and DeFi applications with 3+ years of diverse work experience.
-
-I love working on cool projects at the intersections of Blockchain and DeFi. If you think I could be a value add to your project, please do not hestitate to reach out at one of the links here -->  https://linktr.ee/rashadh
+I am a blockhain developer with a focus on Financial and DeFi applications with 3+ years of diverse work experience.
 
 ### Contributions
-- Siren Protocol (Current FT) - Building Hedging and Margin Systems that run both On/Off chain.  
+- Siren Protocol (Current FT) - Building Hedging and Margin Systems that run both On/Off chain.
+
+- SeaCows -- Designed withdrawal an pricing mechanism for an XYK NFT AMM.
 
 - RociFi -- Credit risk model repositiories as Data Science Team Lead. https://github.com/RociFi  
 
@@ -14,15 +14,21 @@ I love working on cool projects at the intersections of Blockchain and DeFi. If 
 
 ### Work History 
 
-I would recommend viewing my LinkedIn profile here --> https://www.linkedin.com/in/rashad-al-haddad-358731a7/ . At a high level, some of the awesome companies I have contributed to in the past, in order of recentness, include:  
+ At a high level, some of the awesome companies I have contributed to in the past, in order of recentness, include:  
 
-- Siren Protocol -- Quantitative Developer
+- Siren Protocol -- Quantitative Lead
   
 - RociFi -- Data Science Team Lead  
 
 - SolRiver -- Senior Associate (Modeling / Valuation) 
 
 - Xcel Energy -- Quantitative Systems Consultant (Risk Quant)
+
+
+### Hackathons
+- Won BOB Bitcoin hacker house Feb 2024 (1st place prize), "build a bridge from BRC-20 to ERC-20 using tBTC"  
+- Won bounty from chainlink for "Hooker Finance in September 2023 ETH Global  
+- Won "best use of the graph protocol", March 2023 for Janka at ETH Denver    
 
 
 ### Education
@@ -33,6 +39,8 @@ I would recommend viewing my LinkedIn profile here --> https://www.linkedin.com/
 
 
 ### Specialties
+- Blockchain Development (Solidity, GO, typescript, ASM)
+  
 - Decision Tree Based Modeling. 
 
 - Statistical Modeling. 
