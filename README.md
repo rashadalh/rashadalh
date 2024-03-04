@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-I am a blockhain developer with a focus on Financial and DeFi applications with 3+ years of diverse work experience.
+I am a blockhain developer with a focus on Financial and DeFi applications.  
 
 ### Contributions
 - Siren Protocol (Current FT) - Building Hedging and Margin Systems that run both On/Off chain.
