@@ -177,27 +177,7 @@ I am a blockhain developer with a focus on Financial and DeFi applications.
 
 - <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> Windows  
 
-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> Ubuntu Linux / Debian Flavors
-
-
-
-### Types of Work I am currenly open to
-
-Full time contract   ❌ 
-
-Part time contract  ✅
-
-Fixed term contract  ❌ 
-
-(Please note while I try to keep this list up-to-date as possible, the best way to verify my currently availability to take on new projects is to directly message me at one of the links provided under my Link Tree)
-
-
-### What is that magical buffalo unicorn thing?
-That is a Bufficorn! Bufficorn NFTs are part of Buficorn Buidl Brigrade, a community of Web3 builders in Denver CO, and are a fixture of the ETH Denver community. Holding a Bufficorn makes you a member of this awesome group of builders and thinkers.
-
-
-### Questions?
-Feel free to DM me on LinkedIn, Telegram, or any of the links here --> https://linktr.ee/rashadh
+- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> Ubuntu Linux / Debian Flavors  
 
 
 
