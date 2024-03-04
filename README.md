@@ -6,7 +6,7 @@ I am a blockhain developer with a focus on Financial and DeFi applications.
 ### Contributions
 - Siren Protocol (Current FT) - Building Hedging and Margin Systems that run both On/Off chain.
 
-- SeaCows -- Designed withdrawal an pricing mechanism for an XYK NFT AMM.
+- SeaCows -- Designed withdrawal and pricing mechanism for an XYK NFT AMM.
 
 - RociFi -- Credit risk model repositiories as Data Science Team Lead. https://github.com/RociFi  
 
