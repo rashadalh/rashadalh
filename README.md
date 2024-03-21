@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-I am a Quantitative Stragetist & Developer with a focus on Financial and DeFi applications.  
+I am a Quantitative Strategist & Developer with a focus on Financial and DeFi applications.  
 
 ### Contributions
 - Siren Protocol (Current FT) - Building Hedging and Margin Systems that run both On/Off chain.
