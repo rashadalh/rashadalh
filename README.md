@@ -28,7 +28,8 @@ I am a Quantitative Strategist & Developer with a focus on Financial and DeFi ap
 ### Hackathons
 - Won BOB Bitcoin hacker house Feb 2024 (1st place prize), "build a bridge from BRC-20 to ERC-20 using tBTC"  
 - Won bounty from chainlink for "Hooker Finance in September 2023 ETH Global  
-- Won "best use of the graph protocol", March 2023 for Janka at ETH Denver    
+- Won "best use of the graph protocol", March 2023 for Janka at ETH Denver
+- Tied for 3rd place in January 2023 in Canto Hackathon for proposing a mechanism for a completely on-chain credit credit score
 
 
 ### Education
