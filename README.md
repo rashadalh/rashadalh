@@ -4,7 +4,7 @@
 I am a Quantitative Strategist & Developer with a focus on Financial and DeFi applications.  
 
 ### Contributions
-- DoggyFi (Currnet) - DeFi on DOGE + meta social
+- DoggyFi (Current) - DeFi on DOGE + meta social
 - Siren Protocol - Building Hedging and Margin Systems that run both On/Off chain.
 
 - SeaCows -- Designed withdrawal and pricing mechanism for an XYK NFT AMM.
