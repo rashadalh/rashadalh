@@ -4,7 +4,8 @@
 I am a Quantitative Strategist & Developer with a focus on Financial and DeFi applications.  
 
 ### Contributions
-- Siren Protocol (Current FT) - Building Hedging and Margin Systems that run both On/Off chain.
+- DoggyFi (Currnet) - DeFi on DOGE + meta social
+- Siren Protocol - Building Hedging and Margin Systems that run both On/Off chain.
 
 - SeaCows -- Designed withdrawal and pricing mechanism for an XYK NFT AMM.
 
@@ -26,6 +27,7 @@ I am a Quantitative Strategist & Developer with a focus on Financial and DeFi ap
 
 
 ### Hackathons
+- Won bounty from Ava Protocol for building SDK on top of their API during Permissionless 3 hackathon
 - Won BOB Bitcoin hacker house Feb 2024 (1st place prize), "build a bridge from BRC-20 to ERC-20 using tBTC"  
 - Won bounty from chainlink for "Hooker Finance in September 2023 ETH Global  
 - Won "best use of the graph protocol", March 2023 for Janka at ETH Denver
