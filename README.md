@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Experience technical leader, quantitative strategist, and developer with a focus on financial and DeFi applications.  
+Experienced technical leader, quantitative strategist, and developer with a focus on financial and DeFi applications.  
 
 ### Prior Work History
 - **DoggyFi** (CoFounder & Chief Technology Officer) -- First AMM on Dogecoin, first metamask snap for dogecoin metatokens, production grade SDK for building doge transactions, and designed architecture to take Dogecoin cross-chain
